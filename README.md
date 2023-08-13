@@ -125,3 +125,9 @@ to read:
 
 this is demo
 It is the second modification
+
+
+Now we are compiling and executing dependency jobs 3rd time
+1 will complete and trigger job 2 
+job 2 will trigger job 3
+git add. git commit git push >> Jenkins > Job1 > job2 > job3
